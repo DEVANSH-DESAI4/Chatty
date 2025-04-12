@@ -83,7 +83,7 @@ class _HomeScreenState extends State<HomeScreen> {
         elevation: 0,
         backgroundColor: Colors.purple,
         title: const Text(
-          'Flash Chat',
+          'Chatty',
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
